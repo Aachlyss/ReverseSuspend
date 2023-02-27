@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseSuspend", "ReverseSuspend\ReverseSuspend.csproj", "{49E1D785-D962-4E91-9B7E-FCF2DF99A08A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49E1D785-D962-4E91-9B7E-FCF2DF99A08A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49E1D785-D962-4E91-9B7E-FCF2DF99A08A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49E1D785-D962-4E91-9B7E-FCF2DF99A08A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49E1D785-D962-4E91-9B7E-FCF2DF99A08A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6BF9C031-0E5E-4799-9AE3-05D8D0D068DC}
+	EndGlobalSection
+EndGlobal
